@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodDev88
 - 👀 I’m instering in coding, software development, ciber sec, algorithms, content creation, literature and surf...
-- 🌱 I’m currently learning fullstack Javascript in Bootcamp Desafío Latam and also i am studyng The fundaments of programation in Udemy.
+- 🌱 I’m currently learning fullstack Javascript in Bootcamp Desafío Latam and also i am studyng The fundaments of programmation in Udemy.
 - 💞️ I’m looking to collaborate on projects that i can learn and practice my devs skills
 - 📫 How to reach me ... rqcdechile@gmail.com or elfuego.cl 
 
