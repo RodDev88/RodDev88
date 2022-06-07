@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RodDev88
-- 👀 I’m interested in coding, software development, ciber sec, algorithms, content creation, literature and surf...
-- 🌱 I’m currently learning fullstack Javascript in Bootcamp Desafío Latam and also i am studyng The fundaments of programmation in Udemy.
-- 💞️ I’m looking to collaborate on projects that i can learn and practice my devs skills
-- 📫 How to reach me ... rqcdechile@gmail.com or elfuego.cl 
+- 👀 I’m interested in learn  to code, software development, ciber sec, algorithms, content creation, literature and surf...
+- 🌱 I’m currently learning Fullstack Javascript in  Desafío Latam Bootcamp and i´m studyng The fundaments of programmation in Udemy. And also i write about tecnology, data, ux and digital marketing in https://fusiona.cl/blog/
+- 💞️ I’m looking for opportunities to learn and practice my devs skills
+- 📫 How to reach me ... rqcdechile@gmail.com or http://elfuego.cl/
 
 <!---
 RodDev88/RodDev88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
