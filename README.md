@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodDev88
-- 👀 I’m interested in learn  to code, software development, ciber sec, algorithms, content creation, literature and surf...
-- 🌱 I’m currently learning Fullstack Javascript in  Desafío Latam Bootcamp and i´m studyng The fundaments of programmation in Udemy. And also i write about tecnology, data, ux and digital marketing in https://fusiona.cl/blog/
+- 👀 I’m interested in software development, content creation, literature and surf...
+- 🌱 I’m currently mastering my Fullstack Javascript Degree obtained in Desafío Latam Bootcamp and I am also deepening my knowledge in the bases of computer science and learning about AI.
 - 💞️ I’m looking for opportunities to learn and practice my devs skills
 - 📫 How to reach me ... rqcdechile@gmail.com or http://elfuego.cl/
 
