@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodDev88
 - 👀 I’m interested in software development, content creation, literature and surf...
-- 🌱 I’m currently mastering my Fullstack Javascript Degree obtained in Desafío Latam Bootcamp and I am also deepening my knowledge in the bases of computer science and learning about AI.
+- 🌱 I’m currently mastering my Fullstack Javascript Degree obtained in Desafío Latam Bootcamp and I am also deepening my knowledge in computer science fundations and learning about AI.
 - 💞️ I’m looking for opportunities to learn and practice my devs skills
 - 📫 How to reach me ... rqcdechile@gmail.com or http://elfuego.cl/
 
